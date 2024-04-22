@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96455154472",
+    "project_id": "learnauth-45183",
+    "storage_bucket": "learnauth-45183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96455154472:android:3c0bd209a3ecd5f9b58e1d",
+        "android_client_info": {
+          "package_name": "com.example.authinflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaYIVlRu7Q-bd_GF35rSoKN_7v1QL5cuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
